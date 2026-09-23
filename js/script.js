@@ -86,7 +86,7 @@ document.getElementById("contactForm").addEventListener("submit", function (e) {
   }
 
   // Nomor WhatsApp tujuan (ganti dengan nomor Anda)
-  let phoneNumber = "6282275999784"; // Format: 62 untuk Indonesia
+  let phoneNumber = "628127139974354"; // Format: 62 untuk Indonesia
 
   // Format pesan yang dikirim ke WhatsApp
   let whatsappMessage = `Halo, saya ${name}\n📧 Email: ${email}\n📞 Telepon: ${phone}\n🗒 Subjek: ${subject}\n\n${message}`;
